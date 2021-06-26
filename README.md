@@ -1,5 +1,5 @@
 ### **Hi there 👋**
-I am currently a **Graduate Student** at the Institute of Automation, Chinese Academy of Sciences (**CASIA**) as well as University of Chinese Academy of Sciences (**UCAS**). I received my B.E. degree from the Shanghai Jiao Tong University (**SJTU**) in 2019.
+I am a **Graduate Student** at the Institute of Automation, Chinese Academy of Sciences (**CASIA**) as well as University of Chinese Academy of Sciences (**UCAS**). I received my B.E. degree from the Shanghai Jiao Tong University (**SJTU**) in 2019.
 
 - 🔭 I’m currently working on **Computer Vision** (both 2D Image and 3D Point-cloud) and **Intelligent Vehicles**
 - ⚡ Most of my projects are opensourced at GitHub.
