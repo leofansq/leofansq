@@ -1,8 +1,8 @@
 ### **Hi there 👋**
 I am a **Graduate Student** at the Institute of Automation, Chinese Academy of Sciences (**CASIA**) as well as University of Chinese Academy of Sciences (**UCAS**). I received my B.E. degree from the Shanghai Jiao Tong University (**SJTU**) in 2019.
 
-- 🔭 I’m currently working on **Computer Vision** (both 2D Image and 3D Point-cloud) and **Intelligent Vehicles**
-- ⚡ Most of my projects are opensourced at GitHub.
+- 🔭 I’m currently working on **Computer Vision** (2D Image & 3D Point-cloud) and **Intelligent Vehicles**
+- ⚡ Most of my projects are opensourced at GitHub
 <!-- - :book: Check my publications via [google scholar](https://scholar.google.com/citations?user=Ahy5smMAAAAJ&hl=en&oi=ao) -->
 
 ![Siqi Fan's github stats](https://github-readme-stats.vercel.app/api?username=leofansq&hide=prs,contribs&include_all_commits=true&show_icons=true&theme=react)
