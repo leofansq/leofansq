@@ -1,7 +1,9 @@
 ### **Hi there 👋**
-I am a **Graduate Student** at the Institute of Automation, Chinese Academy of Sciences (**CASIA**) as well as University of Chinese Academy of Sciences (**UCAS**). I received my B.E. degree from the Shanghai Jiao Tong University (**SJTU**) in 2019.
+I'm a Researcher at Institute for AI Industry Research, Tsinghua University (**AIR, THU**). 
+I obtained my M.S. degree in Automation from Institute of Automation, Chinese Academy of Sciences (**CASIA**) in 2022, 
+and the B.E. degree in Automation from Shanghai Jiao Tong University (**SJTU**) in 2019.
 
-- 🔭 I’m currently working on **Computer Vision** (2D Image & 3D Point-cloud) and **Intelligent Vehicles**
+- 🔭 I'm currently working on **Computer Vision** (2D Image & 3D Point-cloud & Multi-modal Data) and **Intelligent Vehicles**
 - ⚡ Most of my projects are opensourced at GitHub
 <!-- - :book: Check my publications via [google scholar](https://scholar.google.com/citations?user=Ahy5smMAAAAJ&hl=en&oi=ao) -->
 
