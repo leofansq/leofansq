@@ -3,7 +3,7 @@ I'm a Researcher at Institute for AI Industry Research, Tsinghua University (**A
 I obtained my M.S. degree in Automation from Institute of Automation, Chinese Academy of Sciences (**CASIA**) in 2022, 
 and the B.E. degree in Automation from Shanghai Jiao Tong University (**SJTU**) in 2019.
 
-- 🔭 I'm currently working on **Computer Vision** (2D Image & 3D Point-cloud & Multi-modal Data) and **Intelligent Vehicles**
+- 🔭 I'm currently working on **Computer Vision** and **Intelligent Vehicles**
 - ⚡ Most of my projects are opensourced at GitHub
 <!-- - :book: Check my publications via [google scholar](https://scholar.google.com/citations?user=Ahy5smMAAAAJ&hl=en&oi=ao) -->
 
@@ -11,12 +11,13 @@ and the B.E. degree in Automation from Shanghai Jiao Tong University (**SJTU**) 
 
 ### **Some Tools**
 [![Tools_RosBag2KITTI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=Tools_RosBag2KITTI&theme=react)](https://github.com/leofansq/Tools_RosBag2KITTI)
-[![Tools_make_planes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=Tools_make_planes&theme=react)](https://github.com/leofansq/Tools_make_planes)
 [![Tools_Merge_Image_PointCloud](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=Tools_Merge_Image_PointCloud&theme=react)](https://github.com/leofansq/Tools_Merge_Image_PointCloud)
+[![Tools_intelligent vehicles](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=Repository_Intelligent_Vehicle&theme=react)](https://github.com/leofansq/Repository_Intelligent_Vehicle)
 [![Tools_KITTI2FishEye](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=Tools_KITTI2FishEye&theme=react)](https://github.com/leofansq/Tools_KITTI2FishEye)
 
 ### **Some Researches**
 [![SCF-Net](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=SCF-Net&theme=react)](https://github.com/leofansq/SCF-Net)
+[![CPCL](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=CPCL&theme=react)](https://github.com/leofansq/CPCL)
 [![FII-CenterNet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=FII-CenterNet&theme=react)](https://github.com/leofansq/FII-CenterNet)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofansq&layout=compact&hide=jupyterNotebook&theme=react) -->
