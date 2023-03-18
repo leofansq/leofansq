@@ -19,6 +19,7 @@ and the B.E. degree in Automation from Shanghai Jiao Tong University (**SJTU**) 
 [![SCF-Net](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=SCF-Net&theme=react)](https://github.com/leofansq/SCF-Net)
 [![CPCL](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=CPCL&theme=react)](https://github.com/leofansq/CPCL)
 [![FII-CenterNet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=FII-CenterNet&theme=react)](https://github.com/leofansq/FII-CenterNet)
+[![SpiderMesh](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=SpiderMesh&theme=react)](https://github.com/leofansq/SpiderMesh)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofansq&layout=compact&hide=jupyterNotebook&theme=react) -->
 
