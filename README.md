@@ -3,8 +3,10 @@ I'm a Researcher at Institute for AI Industry Research, Tsinghua University (**A
 I obtained my M.S. degree in Automation from Institute of Automation, Chinese Academy of Sciences (**CASIA**) in 2022, 
 and the B.E. degree in Automation from Shanghai Jiao Tong University (**SJTU**) in 2019.
 
-- 🔭 I'm currently working on **Computer Vision** and **Intelligent Vehicles**
-- ⚡ Most of my projects are opensourced at GitHub
+- 🔭 I'm currently working on **AI for Transportation** and **AI for Life Science**
+- :book: Check my publications via [google scholar](https://scholar.google.com/citations?user=Ahy5smMAAAAJ&hl=zh-CN)
+- ⚡ Some of my projects are opensourced at GitHub
+- **Intern Opening (Research Intern @ AIR)**: Kindly email your resume and availability to fansiqi@air.tsinghua.edu.cn, I will reach back to you if you are a good fit.
 <!-- - :book: Check my publications via [google scholar](https://scholar.google.com/citations?user=Ahy5smMAAAAJ&hl=en&oi=ao) -->
 
 ![Siqi Fan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leofansq&hide=prs,contribs&include_all_commits=true&show_icons=true&theme=react)
@@ -20,6 +22,9 @@ and the B.E. degree in Automation from Shanghai Jiao Tong University (**SJTU**) 
 [![CPCL](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=CPCL&theme=react)](https://github.com/leofansq/CPCL)
 [![FII-CenterNet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=FII-CenterNet&theme=react)](https://github.com/leofansq/FII-CenterNet)
 [![SpiderMesh](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=SpiderMesh&theme=react)](https://github.com/leofansq/SpiderMesh)
+[![CBR](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leofansq&repo=CBR&theme=react)](https://github.com/leofansq/CBR)
+[![OpenBioMed](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PharMolix&repo=OpenBioMed&theme=react)](https://github.com/PharMolix/OpenBioMed)
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofansq&layout=compact&hide=jupyterNotebook&theme=react) -->
 
