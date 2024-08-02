@@ -3,7 +3,7 @@ I'm a Researcher at Institute for AI Industry Research, Tsinghua University (**A
 I obtained my M.S. degree in Automation from Institute of Automation, Chinese Academy of Sciences (**CASIA**) in 2022, 
 and the B.E. degree in Automation from Shanghai Jiao Tong University (**SJTU**) in 2019.
 
-- 🔭 I'm currently working on **AI for Transportation** and **AI for Life Science**
+- 🔭 I'm currently working on **Perceptual Intelligence** and **Cognitive Intelligence**
 - :book: Check my publications via [google scholar](https://scholar.google.com/citations?user=Ahy5smMAAAAJ&hl=zh-CN)
 - ⚡ Some of my projects are opensourced at GitHub
 - **Intern Opening (Research Intern @ AIR)**: Kindly email your resume and availability to fansiqi@air.tsinghua.edu.cn, I will reach back to you if you are a good fit.
